@@ -1,0 +1,89 @@
+2025-06-07 01:55:17,125 - INFO - Memulai bruteforce dengan 5 threads
+2025-06-07 01:55:17,128 - INFO - Mencoba password: admin
+2025-06-07 01:55:17,128 - INFO - Mencoba password: 12345
+2025-06-07 01:55:17,128 - INFO - Mencoba password: admin123
+2025-06-07 01:55:17,128 - INFO - Mencoba password: mikrotik
+2025-06-07 01:55:17,128 - INFO - Mencoba password: root
+2025-06-07 01:55:17,344 - INFO - Mencoba password: password
+2025-06-07 01:55:17,344 - INFO - Password ditemukan: admin123
+2025-06-07 01:55:17,345 - INFO - Waktu yang dibutuhkan: 0.22 detik
+2025-06-07 01:55:17,345 - INFO - Total percobaan: 6
+2025-06-07 01:56:04,757 - INFO - [*] Starting bruteforce attack...
+2025-06-07 01:56:04,760 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin
+2025-06-07 01:56:04,760 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: 12345
+2025-06-07 01:56:04,760 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin123
+2025-06-07 01:56:04,760 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: mikrotik
+2025-06-07 01:56:04,761 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: root
+2025-06-07 01:56:04,975 - INFO - [-] Gagal: admin
+2025-06-07 01:56:04,975 - INFO - [+] Sukses login! Password ditemukan: admin123
+2025-06-07 01:56:04,975 - INFO - [-] Gagal: 12345
+2025-06-07 01:56:04,975 - INFO - [-] Gagal: mikrotik
+2025-06-07 01:56:04,975 - INFO - [-] Gagal: root
+2025-06-07 01:56:04,976 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: password
+2025-06-07 01:56:04,977 - INFO - Password ditemukan: admin123
+2025-06-07 01:56:04,978 - INFO - Waktu yang dibutuhkan: 0.22 detik
+2025-06-07 01:56:04,978 - INFO - Total percobaan: 6
+2025-06-07 01:56:05,192 - INFO - [-] Gagal: password
+2025-06-07 01:57:22,031 - INFO - [*] Starting bruteforce attack...
+2025-06-07 01:57:22,034 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin
+2025-06-07 01:57:22,034 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: 12345
+2025-06-07 01:57:22,034 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin123
+2025-06-07 01:57:22,034 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: mikrotik
+2025-06-07 01:57:22,034 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: root
+2025-06-07 01:57:22,249 - INFO - [-] Gagal: mikrotik
+2025-06-07 01:57:22,249 - INFO - [+] Sukses login! Password ditemukan: admin123
+2025-06-07 01:57:22,249 - INFO - [-] Gagal: root
+2025-06-07 01:57:22,249 - INFO - [-] Gagal: admin
+2025-06-07 01:57:22,249 - INFO - [-] Gagal: 12345
+2025-06-07 01:57:22,251 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: password
+2025-06-07 01:57:22,466 - INFO - [-] Gagal: password
+2025-06-07 01:58:44,027 - INFO - [*] Starting bruteforce attack...
+2025-06-07 01:58:46,196 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin123
+2025-06-07 01:58:46,196 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin
+2025-06-07 01:58:46,197 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: mikrotik
+2025-06-07 01:58:46,197 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: 12345
+2025-06-07 01:58:46,197 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: root
+2025-06-07 01:58:46,411 - INFO - [+] Sukses login! Password ditemukan: admin123
+2025-06-07 01:58:46,411 - INFO - [-] Gagal: 12345
+2025-06-07 01:58:46,411 - INFO - [-] Gagal: mikrotik
+2025-06-07 01:58:46,411 - INFO - [-] Gagal: root
+2025-06-07 01:58:46,413 - INFO - [-] Gagal: admin
+2025-06-07 02:01:38,563 - INFO - [*] Starting bruteforce attack...
+2025-06-07 02:01:40,574 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: mikrotik
+2025-06-07 02:01:40,575 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin
+2025-06-07 02:01:40,575 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: 12345
+2025-06-07 02:01:40,575 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin123
+2025-06-07 02:01:40,575 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: root
+2025-06-07 02:01:40,775 - INFO - [-] Gagal: mikrotik
+2025-06-07 02:01:40,777 - INFO - [-] Gagal: 12345
+2025-06-07 02:01:40,777 - INFO - [-] Gagal: admin
+2025-06-07 02:01:40,777 - INFO - [+] Sukses login! Password ditemukan: admin123
+2025-06-07 02:01:40,777 - INFO - [-] Gagal: root
+2025-06-07 02:01:42,787 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: password
+2025-06-07 02:01:42,988 - INFO - [-] Gagal: password
+2025-06-07 02:02:06,091 - INFO - [*] Starting bruteforce attack...
+2025-06-07 02:02:08,100 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin
+2025-06-07 02:02:08,101 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: 12345
+2025-06-07 02:02:08,102 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: mikrotik
+2025-06-07 02:02:08,103 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin123
+2025-06-07 02:02:08,104 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: root
+2025-06-07 02:02:08,301 - INFO - [-] Gagal: admin
+2025-06-07 02:02:08,302 - INFO - [-] Gagal: 12345
+2025-06-07 02:02:08,303 - INFO - [-] Gagal: mikrotik
+2025-06-07 02:02:08,303 - INFO - [+] Sukses login! Password ditemukan: admin123
+2025-06-07 02:02:08,304 - INFO - [-] Gagal: root
+2025-06-07 02:02:10,311 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: password
+2025-06-07 02:02:10,512 - INFO - [-] Gagal: password
+2025-06-07 21:29:47,480 - INFO - [*] Starting bruteforce attack...
+2025-06-07 21:29:49,498 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin
+2025-06-07 21:29:49,500 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: admin123
+2025-06-07 21:29:49,500 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: 12345
+2025-06-07 21:29:49,500 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: root
+2025-06-07 21:29:49,502 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: mikrotik
+2025-06-07 21:29:49,700 - INFO - [-] Gagal: admin
+2025-06-07 21:29:49,701 - INFO - [+] Sukses login! Password ditemukan: admin123
+2025-06-07 21:29:49,702 - INFO - [-] Gagal: 12345
+2025-06-07 21:29:49,703 - INFO - [-] Gagal: root
+2025-06-07 21:29:49,703 - INFO - [-] Gagal: mikrotik
+2025-06-07 21:29:51,714 - INFO - [!] (Mock) Sending login to 4C:5E:0C:12:34:56 with password: password
+2025-06-07 21:29:51,915 - INFO - [-] Gagal: password
